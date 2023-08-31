@@ -31,7 +31,7 @@ syn keyword skriptSpecialKeywords spawn permission loop message title subtitle s
 syn match skriptSpecialKeywords "all players"
 
 " Data Types
-syn keyword skriptDataTypes String Number Boolean List Location Entity Player Block Inventory Item Effect Expression string number boolean list location entity player block inventory item effect expression
+syn keyword skriptDataTypes String Number Boolean List Location Entity Player Block Inventory Item Effect Expression string number boolean list location entity player block inventory item effect expression Name name
 
 " Booleans
 syn keyword skriptBoolean true false add remove than
