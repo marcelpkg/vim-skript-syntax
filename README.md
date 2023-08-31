@@ -11,7 +11,7 @@ This Neovim configuration provides syntax highlighting for the Skript scripting 
 ![image](https://github.com/marcelpkg/vim-skript-syntax/assets/64794665/ba17ce82-502a-47bb-8076-ea092034a9c5)
 
 
-## Installation
+## Installation (Linux)
 
 1. Download the **minecraft_sk.vim** file from the _releases_ tab on Github
 2. Create a directory named **syntax** in your neovim config folder
