@@ -6,7 +6,7 @@ Add syntax highlighting for Skript scripting language in Neovim.
 
 This Neovim configuration provides syntax highlighting for the Skript scripting language, enhancing your coding experience when working with Skript files. It highlights keywords, data types, operators, and other elements to make your Skript code more readable and easier to navigate.
 
-## Preview
+## Preview _Catpuccin_
 
 ![image](https://github.com/marcelpkg/vim-skript-syntax/assets/64794665/ba17ce82-502a-47bb-8076-ea092034a9c5)
 
@@ -38,3 +38,7 @@ Open any .sk file in Neovim, and you should see improved syntax highlighting for
 Credits
 
 This syntax highlighting configuration is inspired by the Skript language and is designed to work with Neovim and Vim.
+
+## Credits
+
+I have updated this old Vim highlighting from [this](https://github.com/mikroskeem/vim-sk-syntax) repository by [@mikroskeem](https://github.com/mikroskeem)
